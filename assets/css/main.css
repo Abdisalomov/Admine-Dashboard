@@ -188,7 +188,9 @@ body {
 	top: 11px;
 	left: 10px;
 	font-size: 1.2rem;
+	color: #999;
 }
+
 
 .user {
 	position: relative;
@@ -487,3 +489,5 @@ body {
 		left: initial;
 	}
 }
+
+
